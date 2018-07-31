@@ -1,6 +1,6 @@
 package com.baichuan.concurrency.example.atomic;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.baichuan.concurrency.annoations.ThreadSafe;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
