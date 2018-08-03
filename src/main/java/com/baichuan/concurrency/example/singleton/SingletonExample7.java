@@ -1,7 +1,7 @@
 package com.baichuan.concurrency.example.singleton;
 
-import com.mmall.concurrency.annoations.Recommend;
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.baichuan.concurrency.annoations.Recommend;
+import com.baichuan.concurrency.annoations.ThreadSafe;
 
 /**
  * 枚举模式：最安全

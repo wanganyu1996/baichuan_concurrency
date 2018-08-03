@@ -1,7 +1,7 @@
 package com.baichuan.concurrency.example.publish;
 
-import com.mmall.concurrency.annoations.NotRecommend;
-import com.mmall.concurrency.annoations.NotThreadSafe;
+import com.baichuan.concurrency.annoations.NotRecommend;
+import com.baichuan.concurrency.annoations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

@@ -1,7 +1,7 @@
 package com.baichuan.concurrency.example.singleton;
 
-import com.mmall.concurrency.annoations.NotRecommend;
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.baichuan.concurrency.annoations.NotRecommend;
+import com.baichuan.concurrency.annoations.ThreadSafe;
 
 /**
  * 懒汉模式

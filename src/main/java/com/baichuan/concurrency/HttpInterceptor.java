@@ -1,7 +1,6 @@
 package com.baichuan.concurrency;
 
 import com.baichuan.concurrency.example.threadLocal.RequestHolder;
-import com.mmall.concurrency.example.threadLocal.RequestHolder;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 

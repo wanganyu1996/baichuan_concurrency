@@ -1,7 +1,7 @@
 package com.baichuan.concurrency.example.immutable;
 
+import com.baichuan.concurrency.annoations.NotThreadSafe;
 import com.google.common.collect.Maps;
-import com.mmall.concurrency.annoations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Map;

@@ -1,7 +1,6 @@
 package com.baichuan.concurrency.example.syncContainer;
 
 import com.baichuan.concurrency.annoations.NotThreadSafe;
-import com.mmall.concurrency.annoations.NotThreadSafe;
 
 import java.util.Vector;
 

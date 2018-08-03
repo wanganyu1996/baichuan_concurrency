@@ -1,6 +1,6 @@
 package com.baichuan.concurrency.example.singleton;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.baichuan.concurrency.annoations.ThreadSafe;
 
 /**
  * 饿汉模式

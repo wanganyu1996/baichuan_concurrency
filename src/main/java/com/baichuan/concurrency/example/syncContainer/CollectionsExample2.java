@@ -2,7 +2,6 @@ package com.baichuan.concurrency.example.syncContainer;
 
 import com.baichuan.concurrency.annoations.ThreadSafe;
 import com.google.common.collect.Sets;
-import com.mmall.concurrency.annoations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Collections;
