@@ -1,6 +1,6 @@
 package com.baichuan.concurrency.example.concurrent;
 
-import com.mmall.concurrency.annoations.ThreadSafe;
+import com.baichuan.concurrency.annoations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Map;
